@@ -1,3 +1,3 @@
-# Data Science Masters
+# PWSkills - Data Science Masters
 
-Main reporsitory for all assignments
+Main reporsitory for all assignments for the course Data Science Masters by PWSkills.
